@@ -1,0 +1,10 @@
+﻿<!doctype html>
+<html> 
+<head>
+<meta charest="utf-8>
+<titel>文档标题</title>
+</head>
+<body>
+wendang....
+</body>
+</html>
